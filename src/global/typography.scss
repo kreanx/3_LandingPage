@@ -1,0 +1,208 @@
+@mixin t_96 {
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 102%;
+}
+
+@mixin t_48 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+}
+
+@mixin t_40 {
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+}
+
+@mixin t_32 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+@mixin t_24 {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+@mixin t_20 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+@mixin t_16 {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+@mixin t_14 {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@mixin t_12 {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+@mixin header-L {
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 120%;
+}
+
+@mixin header-M {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 120%;
+}
+
+@mixin header-S {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 120%;
+}
+
+@mixin header-amount {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+
+@mixin header-XS {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+}
+
+@mixin text-M {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120%;
+
+}
+
+//
+
+@mixin text-XS {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+
+}
+
+@mixin control-L {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+
+}
+
+@mixin control-M {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 120%;
+
+}
+
+@mixin caption-M {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+
+}
+
+@mixin caption-S {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+
+}
+
+
+@mixin m-header-XL {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 120%;
+
+}
+
+@mixin m-header-L {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+}
+
+@mixin m-header-amount {
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+}
+
+@mixin m-header-S {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+
+}
+
+@mixin m-header-XS {
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 120%;
+
+}
+
+@mixin m-text-M {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120%;
+
+}
+
+//
+
+@mixin m-text-S {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 120%;
+
+}
+
+@mixin m-textXS {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 120%;
+
+}
+
+@mixin m-caption-M {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 120%;
+
+}
+
+@mixin m-caption-S {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+
+}
+
+@mixin RCfont {
+    font-family: 'Red Collar';
+}
+
+@mixin TTfont {
+    font-family: 'TT Commons';
+
+}
